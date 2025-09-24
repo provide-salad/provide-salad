@@ -1,5 +1,7 @@
-## greetings user
-it is I, provide salad. 🥗🥗🥗🥗🥗🥗🥗🥗
+## greeting user
+it is I, provide salad.
+
+I'm a hobby computer programmer and I like to make things in C that will never be useful to anybody.
 
 - I'm currently working on ...
 - I'm currently leraning ...
@@ -12,4 +14,4 @@ it is I, provide salad. 🥗🥗🥗🥗🥗🥗🥗🥗
 
 ---
 
-The website's under construction.
+The website's under construction. Check back in three to five business days for the update!
