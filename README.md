@@ -1,7 +1,7 @@
 ## greeting user
 it is I, provide salad.
 
-I'm a hobby computer programmer and I like to make things in C that will never be useful to anybody.
+I'm a hobby computer programmer and I like to make things in C for Linux that will never be useful to anybody.
 
 - I'm currently working on ...
 - I'm currently leraning ...
@@ -14,4 +14,4 @@ I'm a hobby computer programmer and I like to make things in C that will never b
 
 ---
 
-The website's under construction. Check back in three to five business days for the update!
+The website's under construction. Check back in four to six business days for the update!
